@@ -9,7 +9,7 @@ public class Permutatons {
             return;
         }
 
-        char ch = up.charAt(0);
+        char ch = up.charAt( 0);
 
         for (int i = 0; i <= p.length(); i++) {
             String f = p.substring(0, i);

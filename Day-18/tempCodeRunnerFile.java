@@ -1,1 +1,0 @@
-int rno, String name, float marks
